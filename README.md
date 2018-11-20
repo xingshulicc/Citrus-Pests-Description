@@ -25,6 +25,15 @@ The food plants of larval in Asia are from family Rutaceae while in Australia an
 
 3. Forktailed bush katydid
 
+Distribution and damage:
+The pest is widespread in the eastern and southeastern United States. Nymphs of this species feed on young fruit at petal fall. Katydids take a single bite from a fruit and then move to another feeding site on the same or nearby fruit. In this way, a few katydids can damage a large quantity of fruit in a short time. They also eat holes in leaves and maturing fruit, creating injury that resembles damage by citrus cutworm.
+
+Description:
+The adults are 14 - 75 mm in length, dark green, Narrow wings with rounded tips are held along the body at rest. Males have an unusual forked appendage at the end of their abdomen called a furcula. Katydids have much longer antennae than grasshoppers, averaging 39 mm. The white rings evident on the immature katydids are faintly visible.
+
+Host plants:
+sweet orange, Citrus sinensis
+
 4. South green stink bug
 
 5. Fruit piercing moth
