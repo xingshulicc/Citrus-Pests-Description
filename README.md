@@ -16,7 +16,7 @@ The adults are 3 to 4 mm long with a mottled brown body. The nymphs are 0.25 mm 
 Adults and nymphs:
 
 <img src="http://raw.github.com/xingshulicc/Citrus-Pests-Description/master/images/Asian_citrus_psyllid_Adult.jpeg" width="200" height="200" />
-<img src="http://raw.github.com/xingshulicc/Citrus-Pests-Description/master/images/Asian_citrus_psyllid_nymph.jpg" width="200" height="200" />
+<img src="http://raw.github.com/xingshulicc/Citrus-Pests-Description/master/images/Asian_citrus_psyllid_nymph.jpg" width="500" height="200" />
 
 (3) Host plants:
 curry leaf, ornamental orange-jasmine, and all the varieties of citrus, including kumquat, mandarin, grapefruit, orange and all of their hybrids.
