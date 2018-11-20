@@ -3,6 +3,23 @@ Description about 17 species of citrus pests and their damage and host plants
 
 1. Asian citrus psyllid
 
+(1). Distribution and damage:
+The Asian citrus psyllid is widely distributed in southern Asia. It is an important pest of citrus as it is a vector of a serious citrus disease called greening disease or Huanglongbing.
+
+Huanglongbing:
+
+
+
+(2). Description:
+The adults are 3 to 4 mm long with a mottled brown body. The nymphs are 0.25 mm long during the 1st instar and 1.5 to 1.7 mm in last (5th) instar. Their color is generally yellowish-orange. 
+
+Adults and nymphs:
+
+
+
+(3). Host plants:
+curry leaf, ornamental orange-jasmine, and all the varieties of citrus, including kumquat, mandarin, grapefruit, orange and all of their hybrids.
+
 2. Citrus swallowtail
 
 3. Forktailed bush katydid
