@@ -18,7 +18,7 @@ Adults and nymphs:
 ![Image text](http://raw.github.com/xingshulicc/Citrus-Pests-Description/master/images/Asian_citrus_psyllid_Adult.jpeg)
 
 
-![Image text](http://raw.github.com/xingshulicc/Citrus-Pests-Description/master/images/Asian_citrus_psyllid_nymph.jpeg)
+![Image text](http://raw.github.com/xingshulicc/Citrus-Pests-Description/master/images/Asian_citrus_psyllid_nymph.jpg)
 
 (3) Host plants:
 curry leaf, ornamental orange-jasmine, and all the varieties of citrus, including kumquat, mandarin, grapefruit, orange and all of their hybrids.
