@@ -8,14 +8,15 @@ The Asian citrus psyllid is widely distributed in southern Asia. It is an import
 
 Huanglongbing:
 
-
+![Image text](http://raw.github.com/xingshulicc/Citrus-Pests-Description/master/images/huanglongbing.jpg)
 
 (2) Description:
 The adults are 3 to 4 mm long with a mottled brown body. The nymphs are 0.25 mm long during the 1st instar and 1.5 to 1.7 mm in last (5th) instar. Their color is generally yellowish-orange. 
 
 Adults and nymphs:
 
-
+![Image text](http://raw.github.com/xingshulicc/Citrus-Pests-Description/master/images/Asian_citrus_psyllid_Adult.jpeg)
+![Image text](http://raw.github.com/xingshulicc/Citrus-Pests-Description/master/images/Asian_citrus_psyllid_nymph.jpeg)
 
 (3) Host plants:
 curry leaf, ornamental orange-jasmine, and all the varieties of citrus, including kumquat, mandarin, grapefruit, orange and all of their hybrids.
