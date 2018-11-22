@@ -34,11 +34,32 @@ The adults are 14 - 75 mm in length, dark green, Narrow wings with rounded tips 
 Host plants:
 sweet orange, Citrus sinensis
 
-4. South green stink bug
+4. Southern green stink bug
+
+Distribution and damage:
+The southern green stink bug is believed to have originated in Ethiopia. Its distribution now includes the tropical and subtropical regions of Europe, Asia, Africa and the Americas. The damage on fruit from their punctures is hard brownish or black spots. These punctures affect the fruits edible qualities and decidedly lower its market value. In addition to the visual damage caused by southern green stink bug feeding, the mechanical transmission of bacterial spot may also result.
+
+Description:
+The nymphs in the first instars are light yellowish in color with red eyes and transparent legs and antennae. The second instar has black legs, head, thorax, and antennae. The third and fourth instars differ from the second in size and an overall greenish color is becoming apparent. The adult is shield-shaped with an overall dull green color. The eyes are dark red or black. Small black dots can be found along the sides of the abdomen. The wings completely cover the abdomen.
+
+Host plants:
+It prefers woody hosts including basswood, mulberry, pear, maple; yet it is a common pest of vegetable and field crops such as lima beans, green beans, soybean, tomato, cotton, eggplant, and cucumber.
 
 5. Fruit piercing moth
 
-6. Asian longicorn beetle
+Distribution and damage:
+This species of pest is found in large parts of the tropics, mainly in Asia, Africa and Australia but introduced into other areas such as Hawaii, New Zealand and the Society Islands. It is one of major fruit pests in the world. Both sexes of adult fruit piercing moths puncture fruit with their long, stout proboscis which is adapted to penetrate the rind of firm, intact fruit allowing moths to feed on fruit juice and pulp.  Secondary invasions by micro-organisms spread into damaged tissues causing rot and premature fruit-fall. 
+
+Description:
+The adult moths are large and stout-bodied, with a wingspan of 100 mm. The forewings can be mainly brown, cream or green. Hind wings are yellow orange, with black patches and spots.
+
+Host plants:
+A wide range of cultivated and wild fruits, including banana, citrus, 5-corner fruit, guava, mango, passion fruit, pineapple, and in outbreak years, capsicum, melon and tomato.
+
+6. Asian long-horned beetle
+
+Distribution and damage:
+Asian long-horned beetle is native to eastern China, Japan, and Korea. This species has now been accidentally introduced into the United States, as well as Canada, and several countries of Europe. 
 
 7. Garden snail
 
