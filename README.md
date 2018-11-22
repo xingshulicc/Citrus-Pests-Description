@@ -56,16 +56,43 @@ The adult moths are large and stout-bodied, with a wingspan of 100 mm. The forew
 Host plants:
 A wide range of cultivated and wild fruits, including banana, citrus, 5-corner fruit, guava, mango, passion fruit, pineapple, and in outbreak years, capsicum, melon and tomato.
 
-6. Asian long-horned beetle
+6. Citrus long-horned beetle
 
 Distribution and damage:
-Asian long-horned beetle is native to eastern China, Japan, and Korea. This species has now been accidentally introduced into the United States, as well as Canada, and several countries of Europe. 
+Citrus long-horned beetle is native to China, Japan, and Korea. This species has now been accidentally introduced into the United States, as well as Canada, and several countries of Europe. The majority of damage associated with citrus long-horned beetle is caused by the larval stages which feeds and tunnels on the woody portion of the host plant trunk. The wounds created during the course of feeding increase the host susceptibility to various secondary plant pathogens.
+
+Description:
+The beetle is large, stout, and approximately 21 to 37 mm (~1 - 1.5 inch) long with shiny black elytra marked with 10 to 12 white round spots. Antennae are at least as long as the body and have alternating black and white bands. The ventral surface is pubescent. The color of the pubescence varies from white to blue depending on location.
+
+Host plants:
+Its primary hosts include citrus, apple, Australian pine, poplars, and willows.
 
 7. Garden snail
 
+Distribution and damage:
+Garden snail is native to the Mediterranean area and Western Europe, but now its distribution includes the tropical temperate and subtropical areas worldwide. Garden snail creates holes in fruit and leaves, the small holes allow the entry of fungi and decay of the fruit, the larger holes result in fruit dropping from the tree.
+
+Description:
+They have a brownish soft body, covered with slimy mucus and yellow or cream-colored shells with brown spiral stripes. 
+
+Host plants:
+a wide range of crops and ornamental plants are reported as hosts: these include vegetables, cereals, flowers and shrubs. In particular, it causes serious damage in citrus groves and vineyards.
+
 8. Brown marmorated stink bug
 
+Distribution and damage:
+This pest is native to China, Japan, the Korean peninsula, and Taiwan. It is now established in many parts of North America and has recently established itself in Europe and South America. As with other stink bugs, both nymphs and adults use piercing-sucking mouthparts to feed on leaf and fruit tissue. This feeding, specifically the injection of digestive enzymes to facilitate nutrient extraction, results in localized necrotic spots. 
+
+Description:
+Adult brown marmorated stink bugs have typical “shield” shaped bodies approximately 15mm in length that are mottled brown. Its abdominal edges and last two antennal segments have alternating broad light and dark bands. Newly hatched nymphs have dark red eyes and the abdomen is yellowish, mottled with black and red. Older nymphs are darker with black and white bands on the legs and antennae. Similar to other stink bug species, all nymphs lack wings.
+
+Host plants:
+Crop hosts include apple, pear, peach, grape, blueberry, soybean, tomato, and corn. Several ornamental and landscape plants are also used by the brown marmorated stink bug.
+
 9. Citrus fruit fly
+
+Distribution and damage:
+
 
 10. Citrus mealybug
 
