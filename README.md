@@ -92,20 +92,22 @@ Crop hosts include apple, pear, peach, grape, blueberry, soybean, tomato, and co
 9. Citrus fruit fly
 
 Distribution and damage:
+The species is native to sub-Saharan Africa, but has spread invasively to many parts of the world, including Australia, China, Korea, Europe, and North and South America. Fruit infested with Medfly larvae may show ‘sting’ marks on the surface where females have deposited eggs. Larvae feed inside mature fruit, creating tunnels from the surface to the centre. Fruit rot due to secondary infection often occurs with fruit fly infestations.  Infected fruit will drop from the tree or rot on the tree.
 
+Description:
+The adult fly is 3.5 to 5 mm in length. The color is yellowish with brown tinge, especially on abdomen, legs, and some markings on wings. The lower corners of the face have white setae. Eyes are reddish purple . Ocellar bristles are present.  Larva are white with a typical fruit fly larval shape.
+
+Host plants:
+Thin-skinned, ripe succulent fruits are preferred, such as apple, peach, persimmon, cherry, citrus, pear, guava, and host preferences vary in different regions.
 
 10. Citrus mealybug
 
-11. Cicada
+Distribution and damage:
+The pest is a native of Asia but is also found throughout the Americas, Europe, and Oceania. Citrus mealybug feeding results in wilted, distorted, and yellowed chlorotic leaves, premature leaf drop, stunted growth, and occasional death of infested plants or plant parts. The sugary honeydew secreted by citrus mealybugs falls on leaves and fruits below, resulting in the growth of sooty mold which may degrade fruit quality by reducing the photosynthetic capacity of leaves.
 
-12. Citrus scale
+Description:
+Adult size ranges in length from 3 mm (females) to 4.5 mm (males). The females are wingless, white to light brown in color, with brown legs and antennae. Males are similar in color to females and have two long backward-projecting, white wax threads. Adult males are winged and thus capable of flying to new host plants for mating purpose. The nymphs are yellow, oval-shaped with red eyes, and covered with white, waxy particles.
 
-13. False codling moth
+Host plants:
+Citrus, pineapple, eggplant, apple, strawberries, sweet potato, mango, banana, guava, pear, etc
 
-14. Citrus aphids
-
-15. Citrus root weevil
-
-16. Citrus flatid planthopper
-
-17. Glassy winged sharpshooter
