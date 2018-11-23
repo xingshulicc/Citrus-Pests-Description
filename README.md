@@ -111,3 +111,35 @@ Adult size ranges in length from 3 mm (females) to 4.5 mm (males). The females a
 Host plants:
 Citrus, pineapple, eggplant, apple, strawberries, sweet potato, mango, banana, guava, pear, etc
 
+11. Cicada
+
+12. Citrus scale
+
+Description and damage:
+There are two major types of scale on citrus plants: armored scales and soft scales:
+
+Armored scale – Female armored scales, from the family Diaspididae, insert their mouthparts and never move again – eating and reproducing in the same spot. Male armored scales are also immobile until maturity. This type of scale bugs on citrus exudes a protective coating made up of wax and cast skins of prior instars, which creates its armor. These citrus scale pests not only wreak the havoc mentioned above, but the armor will also remain on the plant or fruit long after the insect is dead, creating disfigured fruit.
+
+Soft scale – Soft scale bugs on citrus also form a protective coating via wax secretion, but it is not the hardened shell that the armored scale produces. Soft scales cannot be lifted from their shell and females roam the tree bark freely until eggs begin to form. The honeydew secreted by the soft scale attracts the sooty mold fungus, which in turn covers the citrus leaves preventing photosynthesis. 
+
+In this dataset, four types of soft scale are collected, including Florida wax scale, white wax scale, pink wax scale, and Hard wax scale. In the future, I will try to add some categories of armored scale to the dataset. 
+
+13. False codling moth
+
+Distribution and damage:
+The moth is believed to have originated in Sub-Saharan Africa and occasionally found in Europe and United States. Eggs are laid on the surface of the fruit. After emerging from the egg the larvae burrow into the rind. Once the fruit has been penetrated it is no longer a marketable item, and once compromised, the incidence of disease and mold increases. 
+
+Description:
+Adult moths are 15-16 mm (males) and 19-20 mm (female) in length. Forewings have grey, brown, black and orange-brown markings. A triangular marking on the outer part of the wing with a crescent shaped marking above it distinguishes the False codling moth from other species. Young larvae are yellowish-white with dark spots but bright red or pink when fully grown (15 mm), with a yellow-brown head.
+
+Host plants:
+In Africa, it is a major pest of citrus and cotton. Other commonly grown agricultural hosts in California include grapes, peach, plum, cherry, beans, tomato, pepper, persimmon, apricot, olive, pomegranate, English walnut, and corn.
+
+14. Citrus aphids
+
+
+15. Citrus root weevil
+
+16. Citrus flatid planthopper
+
+17. Glassy winged sharpshooter
