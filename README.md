@@ -151,6 +151,9 @@ http://idtools.org/id/citrus/pests/factsheet.php?name=Spirea+aphid
 
 15. Citrus root weevil
 
+Description:
+
+
 
 16. Citrus flatid planthopper
 
