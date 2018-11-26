@@ -140,10 +140,12 @@ In Africa, it is a major pest of citrus and cotton. Other commonly grown agricul
 Description:
 In this dataset, three kinds of citrus aphids are collected. The reference about their description are as follows:
 
-Black citrus aphid: 
+Black citrus aphid:
 https://www.plantwise.org/KnowledgeBank/Datasheet.aspx?dsid=54271
+
 Cotton or melon aphid: 
 http://ipm.ucanr.edu/PMG/r102300411.html
+
 Spirea aphid:
 http://idtools.org/id/citrus/pests/factsheet.php?name=Spirea+aphid
 
