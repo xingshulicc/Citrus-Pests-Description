@@ -113,6 +113,8 @@ Citrus, pineapple, eggplant, apple, strawberries, sweet potato, mango, banana, g
 
 11. Cicada
 
+This kind of insect is often discovered in citrus plantations, but the damage caused by it is minor. Its appearance is similar to that of other pests, we add this species to the image data to avoid the misclassification of this insect. 
+
 12. Citrus scale
 
 Description and damage:
@@ -153,8 +155,35 @@ http://idtools.org/id/citrus/pests/factsheet.php?name=Spirea+aphid
 
 Description:
 
+diaprepes root weevil：
+https://entnemdept.ifas.ufl.edu/creatures/citrus/diaprepes_root_weevil.htm
 
+blue-green citrus weevil：
+http://idtools.org/id/citrus/pests/factsheet.php?name=Southern+citrus+root+weevil
+
+http://idtools.org/id/citrus/pests/factsheet.php?name=Northern+citrus+root+weevil
+
+Sympiezomia citri Chao：
+http://www.piweevils.com/?xcsjk3_en/id/49.html
 
 16. Citrus flatid planthopper
 
+Distribution and damage:
+The species is native to North America, but today is found throughout southern Europe, in the Neotropical ecozone and in South Korea. Dense populations of nymphs cause stunting of the shoots, while those of adults produce large quantities of honeydew on which sooty mold develops. 
+
+Description:
+Flatids have broadly triangular front wings that are held close to the body in a vertical position and give the insects a wedge-shaped, laterally compressed appearance from above. The color of the adult varies considerably from brown to gray, due chiefly to the presence or absence of a bluish-white waxy powder. A characteristic pair of dark spots is located in the basal half of each forewing. 
+
+Host plants:
+It has been reported on a long list of plants, including many forest trees, orchard and citrus trees, grape and other vines, numerous shrubs, and some herbs.
+
 17. Glassy winged sharpshooter
+
+Distribution and damage:
+Glassy winged sharpshooter is indigenous to the southeastern United States and northeastern Mexico, and extended its range into California USA in 1989. The insect feeds on the nutrient-poor xylem of the plant, the adults and nymphs excrete large amounts of liquid while feeding, which gives the fruit and foliage a whitewashed appearance.
+
+Description:
+These sharpshooters are about 12 millimeters in length. Their color is dark brown to black with black-and-yellow undersides, with yellow eyes, and the upper parts of the head and back are speckled with ivory or yellowish spots. The wings are transparent with reddish veins.
+
+Host plants:
+Its known host range is vast, including more than 100 plant species, the preferred species include crape myrtle, citrus, and holly.
